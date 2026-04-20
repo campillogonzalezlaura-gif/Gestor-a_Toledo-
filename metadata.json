@@ -1,8 +1,6 @@
-node_modules/
-build/
-dist/
-coverage/
-.DS_Store
-*.log
-.env*
-!.env.example
+{
+  "name": "GestoríaData: Extractor Administrativo",
+  "description": "Herramienta inteligente para la extracción y normalización de datos de trámites administrativos a partir de correos electrónicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
